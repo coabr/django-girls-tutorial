@@ -2,8 +2,11 @@
 
 ## Metting notes (07/01/2021) :bookmark_tabs:
 :heavy_minus_sign: We are going to be meeting on **fridays** (saturday for Rachel \o/) at 9PM GMT +3 / 8PM EDT/ 7PM PDT / 12 PM GMT +12;
+
 :heavy_minus_sign: We are supposed to read the topics before the meeting, and code together while we are meeting;
+
 :heavy_minus_sign: We are going to have one principal project and personal folders to code our own projects too, if we want to, and to avoid conflicts when we merge pull requests. ALso with README to make personal notes ;
+
 :heavy_minus_sign: Our oficcial communication channel will be on Slack 
 ## Our Agenda :calendar:
 
