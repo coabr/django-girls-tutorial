@@ -6,6 +6,9 @@
 - We are going to have one principal project and personal folders to code our own projects too, if we want to, and to avoid conflicts when we merge pull requests;
 - Our oficcial communication channel will be Slack
 # Our Agenda
+
+:point_right: [Here is the link for our agenda](https://calendar.google.com/calendar/u/0?cid=NXZpZ2Iwb29zaGM2MnU0aXZoM3RqdGFlZmdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
+
 ## If we don't finalize in those 4 days, we can meet for more fridays 
 | Date (mm/dd/yyyy) |    Zoom Link   |      Time     | Topics to read:|  Duration |
 |:-----------------:|----------------|:-------------:|:--------------:| :--------:|
