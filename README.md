@@ -18,4 +18,5 @@
 |    07/30/2021     |                |  9PM GMT +3 / 8PM EDT/ 7PM PDT / 12 PM GMT +12   |    13, 14, 15  |   1 hour  |
 
 
-#### Disclaimer: Nothing here is written on stone, so feel free to change/improve wenever you want :)
+#### Disclaimer: 
+Nothing here is written on stone, so feel free to change/improve wenever you want :octocat::sunflower:
