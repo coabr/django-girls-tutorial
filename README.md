@@ -13,7 +13,7 @@ Introduction to command line, Python installation, Code editor , Introduction to
 :point_right: [Here is the link for our agenda](https://calendar.google.com/calendar/u/0?cid=NXZpZ2Iwb29zaGM2MnU0aXZoM3RqdGFlZmdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
 
 ### If we don't finalize in those 4 days, we can meet for more fridays 
-| Date (mm/dd/yyyy) |    Zoom Link   |      Time     | Topics to read:|  Duration |
+| Date (mm/dd/yyyy) |    Zoom Link   |      Time     | Topics to read before the meeting:|  Duration |
 |:-----------------:|----------------|:-------------:|:--------------:| :--------:|
 |    07/09/2021     |                |  9PM GMT +3 / 8PM EDT/ 7PM PDT / 12 PM GMT +12   |     Your first Django project!, Django models, Django admin , Deploy!  |   1 hour  |
 |    07/16/2021     |                |  9PM GMT +3 / 8PM EDT/ 7PM PDT / 12 PM GMT +12   |     Django URLs , Django views – time to create! , Introduction to HTML , Django ORM (Querysets)  |   1 hour  |
