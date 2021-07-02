@@ -1,4 +1,4 @@
-# Django Girls Tutorial
+![image](https://user-images.githubusercontent.com/50220493/124313224-f0424280-db46-11eb-8081-9500baf0bb82.png)
 
 ## Metting notes (07/01/2021) :bookmark_tabs:
 - We are going to be meeting on **fridays** (saturday for Rachel \o/) at 9PM GMT +3 / 8PM EDT/ 7PM PDT / 12 PM GMT +12; 
