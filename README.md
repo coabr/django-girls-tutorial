@@ -1,5 +1,13 @@
 ![image](https://user-images.githubusercontent.com/50220493/124313224-f0424280-db46-11eb-8081-9500baf0bb82.png)
 
+## Metting notes (07/23/2021) :bookmark_tabs:
+- We did some recap on the commands we have seen so far.
+- We finalized the **Your first Django project!** section.
+- We started reading the **Django models** section until _Creating an application_ topic, from where we are going to start on the next meeting.
+- P.S.:
+  - Archana has invited me to chat this week, and I shared with her our progress in this project so far. She asked if we want to do another project when this one is done.
+  - You can start contributing with this project to be marked as a contributor on the WWCPython Github repository if you want to.
+
 ## Metting notes (07/09/2021) :bookmark_tabs:
 - We went through **Django Instalation** and started **Your first Django project!** section.
   - We finalize the _Changing settings_ topic
