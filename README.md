@@ -1,5 +1,11 @@
 ![image](https://user-images.githubusercontent.com/50220493/124313224-f0424280-db46-11eb-8081-9500baf0bb82.png)
 
+## Metting notes (07/30/2021) :bookmark_tabs:
+- We also did some recap on the commands we have seen so far.
+- We tried to solve Rachel's problem with her database, if she can't solve she will try other databases
+- We finalized **Django models** 
+-Next meeting we will get back from **Django admin** section
+
 ## Metting notes (07/23/2021) :bookmark_tabs:
 - We did some recap on the commands we have seen so far.
 - We finalized the **Your first Django project!** section.
@@ -26,15 +32,15 @@ Introduction to command line, Python installation, Code editor , Introduction to
 :point_right: [Here is the link for our agenda](https://calendar.google.com/calendar/u/0?cid=NXZpZ2Iwb29zaGM2MnU0aXZoM3RqdGFlZmdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
 
 ### If we don't finalize in those 4 days, we can meet for more fridays 
-| Date (mm/dd/yyyy) |    Zoom Link   |      Time     | Topics to read before the meeting:|  Duration |
+| Date (mm/dd/yyyy) |    Zoom Link   |      Time     | Topics of the meeting:|  Duration |
 |:-----------------:|----------------|:-------------:|:--------------:| :--------:|
-|    07/09/2021     | https://bit.ly/36syIuS  |  9PM GMT +3 / 8PM EDT/ 7PM PDT / 12 PM GMT +12   |   What is Django, Your first Django project!, Django models  |   1 hour  |
-|    07/16/2021     | https://bit.ly/36syIuS  |  9PM GMT +3 / 8PM EDT/ 7PM PDT / 12 PM GMT +12   |   Django admin , Deploy!   |   1 hour  |
-|    07/23/2021     | https://bit.ly/36syIuS  |  9PM GMT +3 / 8PM EDT/ 7PM PDT / 12 PM GMT +12   |   Django URLs , Django views – time to create!    |   1 hour  |
-|    07/30/2021     | https://bit.ly/36syIuS  |  9PM GMT +3 / 8PM EDT/ 7PM PDT / 12 PM GMT +12   |   Introduction to HTML, Django ORM (Querysets),  |   1 hour  |
-|    08/06/2021     | https://bit.ly/36syIuS  |  9PM GMT +3 / 8PM EDT/ 7PM PDT / 12 PM GMT +12   |   Dynamic data in templates, Django templates  |   1 hour  |
-|    08/13/2021     | https://bit.ly/36syIuS  |  9PM GMT +3 / 8PM EDT/ 7PM PDT / 12 PM GMT +12   |    CSS - make it pretty, Template extending  |   1 hour  |
-|    08/20/2021     | https://bit.ly/36syIuS  |  9PM GMT +3 / 8PM EDT/ 7PM PDT / 12 PM GMT +12   |    Extend your application, Django Forms, What's next?  |   1 hour  |
+|    07/09/2021     | https://bit.ly/36syIuS  |  9PM GMT +3 / 8PM EDT/ 7PM PDT / 12 PM GMT +12   |   Setting up + What is Django  |   1 hour  |
+|    07/16/2021     | https://bit.ly/36syIuS  |  9PM GMT +3 / 8PM EDT/ 7PM PDT / 12 PM GMT +12   |   What is Django, Your first Django project!   |   1 hour  |
+|    07/23/2021     | https://bit.ly/36syIuS  |  9PM GMT +3 / 8PM EDT/ 7PM PDT / 12 PM GMT +12   |   Your first Django project!, Django models    |   1 hour  |
+|    07/30/2021     | https://bit.ly/36syIuS  |  9PM GMT +3 / 8PM EDT/ 7PM PDT / 12 PM GMT +12   |   Django models  |   1 hour  |
+|    08/06/2021     | https://bit.ly/36syIuS  |  9PM GMT +3 / 8PM EDT/ 7PM PDT / 12 PM GMT +12   |   (expected) Django admin  |   1 hour  |
+|    08/13/2021     | https://bit.ly/36syIuS  |  9PM GMT +3 / 8PM EDT/ 7PM PDT / 12 PM GMT +12   |   - |   1 hour  |
+|    08/20/2021     | https://bit.ly/36syIuS  |  9PM GMT +3 / 8PM EDT/ 7PM PDT / 12 PM GMT +12   |   - |   1 hour  |
 
 
 
