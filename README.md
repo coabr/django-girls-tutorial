@@ -1,10 +1,16 @@
 ![image](https://user-images.githubusercontent.com/50220493/124313224-f0424280-db46-11eb-8081-9500baf0bb82.png)
 
+## Metting notes (08/06/2021) :bookmark_tabs:
+- We finalized **Django admin** section
+- We managed to fix Rachel's problem with the operational system, and we were all on the same page o/
+- I talked about our meetings in my local Pyladies community and we are having two more women joining us next meeting 
+- Next meeting we will start **Deploy!** section
+
 ## Metting notes (07/30/2021) :bookmark_tabs:
 - We also did some recap on the commands we have seen so far.
 - We tried to solve Rachel's problem with her database, if she can't solve she will try other databases
 - We finalized **Django models** 
--Next meeting we will get back from **Django admin** section
+- Next meeting we will get back from **Django admin** section
 
 ## Metting notes (07/23/2021) :bookmark_tabs:
 - We did some recap on the commands we have seen so far.
