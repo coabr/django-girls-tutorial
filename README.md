@@ -1,5 +1,9 @@
 ![image](https://user-images.githubusercontent.com/50220493/124313224-f0424280-db46-11eb-8081-9500baf0bb82.png)
 
+
+## Metting notes (08/03/2021) :bookmark_tabs:
+- 
+- 
 ## Metting notes (08/27/2021) :bookmark_tabs:
 - We started the topic _Setting up our blog on PythonAnywhere_ 
 
