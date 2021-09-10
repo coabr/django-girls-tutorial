@@ -4,6 +4,7 @@
 ## Metting notes (08/03/2021) :bookmark_tabs:
 - 
 - 
+
 ## Metting notes (08/27/2021) :bookmark_tabs:
 - We started the topic _Setting up our blog on PythonAnywhere_ 
 
