@@ -56,9 +56,12 @@ Introduction to command line, Python installation, Code editor , Introduction to
 |    07/16/2021     | https://bit.ly/36syIuS  |  9PM GMT +3 / 8PM EDT/ 7PM PDT / 12 PM GMT +12   |   What is Django, Your first Django project!   |   1 hour  |
 |    07/23/2021     | https://bit.ly/36syIuS  |  9PM GMT +3 / 8PM EDT/ 7PM PDT / 12 PM GMT +12   |   Your first Django project!, Django models    |   1 hour  |
 |    07/30/2021     | https://bit.ly/36syIuS  |  9PM GMT +3 / 8PM EDT/ 7PM PDT / 12 PM GMT +12   |   Django models  |   1 hour  |
-|    08/06/2021     | https://bit.ly/36syIuS  |  9PM GMT +3 / 8PM EDT/ 7PM PDT / 12 PM GMT +12   |   (expected) Django admin  |   1 hour  |
-|    08/13/2021     | https://bit.ly/36syIuS  |  9PM GMT +3 / 8PM EDT/ 7PM PDT / 12 PM GMT +12   |   - |   1 hour  |
-|    08/20/2021     | https://bit.ly/36syIuS  |  9PM GMT +3 / 8PM EDT/ 7PM PDT / 12 PM GMT +12   |   - |   1 hour  |
+|    08/06/2021     | https://bit.ly/36syIuS  |  9PM GMT +3 / 8PM EDT/ 7PM PDT / 12 PM GMT +12   |   Django admin  |   1 hour  |
+|    08/13/2021     | https://bit.ly/36syIuS  |  9PM GMT +3 / 8PM EDT/ 7PM PDT / 12 PM GMT +12   |   Django admin |   1 hour  |
+|    08/20/2021     | https://bit.ly/36syIuS  |  9PM GMT +3 / 8PM EDT/ 7PM PDT / 12 PM GMT +12   |   Deploy! |   1 hour  |
+|    08/27/2021     | https://bit.ly/36syIuS  |  9PM GMT +3 / 8PM EDT/ 7PM PDT / 12 PM GMT +12   |   Deploy! |   1 hour  |
+|    09/03/2021     | https://bit.ly/36syIuS  |  9PM GMT +3 / 8PM EDT/ 7PM PDT / 12 PM GMT +12   |   Deploy! |   1 hour  |
+|    09/10/2021     | https://bit.ly/36syIuS  |  9PM GMT +3 / 8PM EDT/ 7PM PDT / 12 PM GMT +12   |   Deploy! |   1 hour  |
 
 
 
