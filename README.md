@@ -1,5 +1,12 @@
 ![image](https://user-images.githubusercontent.com/50220493/124313224-f0424280-db46-11eb-8081-9500baf0bb82.png)
 
+## Metting notes (08/27/2021) :bookmark_tabs:
+- We started the topic _Setting up our blog on PythonAnywhere_ 
+
+## Metting notes (08/13/2021) :bookmark_tabs:
+- We wennt through **Deploy** section
+- We tryied to fix Stephanie's git first configuration
+
 ## Metting notes (08/06/2021) :bookmark_tabs:
 - We finalized **Django admin** section
 - We managed to fix Rachel's problem with the operational system, and we were all on the same page o/
